@@ -12,4 +12,4 @@ Over time, I will be adding Vulnhub walkthrough guides, mainly for beginner mach
 
 So far, I have written these walkthrough guides:
 
-- [_Basic Pentesting 1_](/walkthrough/basic-pentesting-1/basic_pentesting_1) - a great first Vulnhub VM for beginners
+- [_Basic Pentesting 1_](/walkthrough/basic-pentesting-1) - a great first Vulnhub VM for beginners
