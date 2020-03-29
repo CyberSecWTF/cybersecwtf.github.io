@@ -1,6 +1,6 @@
 # Mirai walkthrough (Hack The Box)
 
-- named after Mirai botnet https://en.wikipedia.org/wiki/Mirai_(malware)
+- named after [Mirai botnet](https://en.wikipedia.org/wiki/Mirai_(malware))
 
 - initial portscan
 
